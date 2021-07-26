@@ -3,7 +3,6 @@ By using Stati, you agree to the following privacy policy.
 
 What information is stored?
 Your user id is stored if you link your in game profile with Discord
-Your in game names may be stored on other api services.
 Your user id is stored if you are blacklisted.
 Stati's message id and the guild id of the server where the refreshing display is posted is saved.
 When purchase Stati premium or donate, your user id is stored.
@@ -13,6 +12,8 @@ We store this data to allow the features to work properly.
 
 Who gets this data?
 No one. This data is secured on our databases. 
+
+Your in game names may be stored on other api services.
 
 To view our api services privacy policies:
 https://r6stats.com/privacy-policy - Rainbow Six Siege
@@ -25,4 +26,4 @@ Some of these features aren't implemented yet but are planned to.
 
 Note: We reserve the right to change this without notifying our users.
 
-This policy was last updated April 6th, 2021.
+This policy was last updated July 25th, 2021.
